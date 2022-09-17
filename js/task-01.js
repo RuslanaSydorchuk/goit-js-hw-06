@@ -10,5 +10,4 @@ for (const categoryItem of categoryItems) {
     console.log('Category:', categoryName.textContent);
     const list = categoryItem.querySelectorAll('li');
     console.log('Elements:',list.length);
-
 }
