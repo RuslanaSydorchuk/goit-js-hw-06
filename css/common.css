@@ -29,5 +29,7 @@ img{
 .gallery{
   list-style: none;
   display: flex;
-  gap: 10px;
+  justify-content: baseline;
+  align-items: center;
+  gap: 15px;
 }
